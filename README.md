@@ -1,7 +1,5 @@
 ## Hi There!, Im Cezar 👋
 
-# Hi, I'm Cezar 👋
-
 I'm a cybersecurity student passionate about enterprise networking, blue-team security, and practical hands-on learning.
 
 ## Current Focus
